@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "pimk rose",
+      "image": "https://artcaffemarket.co.ke/cdn/shop/files/136_20240716_103753_0030-926481.jpg?v=1734955761",
+      "price": "13.67",
+      "id": 8
     }
   ]
 }
